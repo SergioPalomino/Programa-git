@@ -1,0 +1,4 @@
+conexion\conexionDB.class
+com\mycompany\sistema_triage2\JakartaRestConfiguration.class
+com\mycompany\sistema_triage2\resources\JakartaEE10Resource.class
+servlets\Svinicio_sesion.class
